@@ -1,0 +1,25 @@
+.top{
+    margin-top: 100px !important;
+    margin-left: 10px !important;
+}
+.left-col{
+    background: linear-gradient(90deg,#160042,#753a88);
+    border-radius: 15px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.category-img{
+    width: 150px;
+    height: 100px;
+}
+.dev-img{
+    height: 100px;
+}
+.project-img, .technology, .adv-icon{
+    width: 150px;
+    height: 150px;
+}
+.img-about{
+    width: 300px;
+    height: 300px;
+}
